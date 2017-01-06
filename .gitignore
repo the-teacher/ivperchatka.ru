@@ -1,0 +1,15 @@
+tmp
+db/schema.rb
+doc
+log
+/*.txt
+*.bat
+*.sql
+
+.rvmrc
+.ruby-version
+.ruby-gemset
+
+public/uploads/*
+config/database.yml
+config/capistrano/templates/database.production.yml
